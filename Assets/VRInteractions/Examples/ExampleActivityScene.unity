@@ -541,8 +541,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63d1bbce1ecb5864793cf958411ddc45, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  FadeInTime: 3
-  test: 0
 --- !u!114 &151553585
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1346,9 +1344,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c1980890e610a754c9d40cb19138ec06, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  VibrationLength: 0.0112
-  HapticPulseStrength: 0.5
-  HapticFrameTime: 0.001
 --- !u!82 &332366469
 AudioSource:
   m_ObjectHideFlags: 0
@@ -1686,10 +1681,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bca9ccf900ccc84c887d783321d27e2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _head: {fileID: 1094869449}
-  _ears: {fileID: 698414113}
-  wireframe: 0
-  flip: {fileID: 448467638}
 --- !u!114 &448467638
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2689,11 +2680,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 659419106}
   m_Mesh: {fileID: 4300002, guid: 00d9eaa06caab9c459ca5cca002627eb, type: 3}
---- !u!4 &698414113 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 439042, guid: 4d293c8e162f3874b982baadd71153d2, type: 2}
-  m_PrefabInstance: {fileID: 1110379724}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &701166693
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2922,8 +2908,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63d1bbce1ecb5864793cf958411ddc45, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  FadeInTime: 3
-  test: 0
 --- !u!114 &748197660
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3246,13 +3230,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92244ebba5a0a6e4a98b032d2131944a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ObjectPrefab: {fileID: 439496, guid: 233b899afc9fed64eae27ec51ffa8424, type: 3}
-  MaxSpawnDistance: 0.4
-  SpawnDelay: 0.06
-  EnergyLever: {fileID: 1472888703}
-  PistonLever: {fileID: 839439326}
-  SpawnNumber: 16
-  test: 0
 --- !u!135 &827837271
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -3613,8 +3590,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63d1bbce1ecb5864793cf958411ddc45, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  FadeInTime: 3
-  test: 0
 --- !u!23 &907698399
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -4069,8 +4044,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63d1bbce1ecb5864793cf958411ddc45, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  FadeInTime: 3
-  test: 0
 --- !u!23 &1020151859
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -4252,11 +4225,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9b0ca875d4879b409d76235135784e0, type: 3}
---- !u!4 &1094869449 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 408470, guid: 4d293c8e162f3874b982baadd71153d2, type: 2}
-  m_PrefabInstance: {fileID: 1110379724}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1110379724
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4529,9 +4497,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c1980890e610a754c9d40cb19138ec06, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  VibrationLength: 0.01
-  HapticPulseStrength: 0.5
-  HapticFrameTime: 0.001
 --- !u!54 &1110379729
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5460,8 +5425,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a154e4572c955454aa17b8451bad87b6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotation: {x: 0.2, y: 0.5, z: 0.02}
-  RandomizeRotationRange: 1
 --- !u!114 &1409691890
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5474,8 +5437,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63d1bbce1ecb5864793cf958411ddc45, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  FadeInTime: 3
-  test: 0
 --- !u!23 &1409691891
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -7255,7 +7216,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d9e3ae8d32a40340866e113b859f562, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Lever: {fileID: 1472888703}
 --- !u!114 &1856646756
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7268,10 +7228,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 083a1d4e519fa73498f8785951a8835e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TargetPosition: {x: 0, y: 2.03, z: 0}
-  TransitionTime: 3
-  mCurrentValue: 0
-  mValueTarget: 0
 --- !u!114 &1874388328 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 11415526, guid: e9b0ca875d4879b409d76235135784e0, type: 3}
@@ -7348,10 +7304,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 083a1d4e519fa73498f8785951a8835e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TargetPosition: {x: 0, y: 2, z: 0}
-  TransitionTime: 3
-  mCurrentValue: 0
-  mValueTarget: 0
 --- !u!54 &1912954461
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7457,7 +7409,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d9e3ae8d32a40340866e113b859f562, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Lever: {fileID: 839439326}
 --- !u!1 &1923457341
 GameObject:
   m_ObjectHideFlags: 0
@@ -8046,8 +7997,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a154e4572c955454aa17b8451bad87b6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotation: {x: 0.2, y: 0.5, z: 0.02}
-  RandomizeRotationRange: 1
 --- !u!114 &2070854090
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8060,8 +8009,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63d1bbce1ecb5864793cf958411ddc45, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  FadeInTime: 3
-  test: 0
 --- !u!23 &2070854091
 MeshRenderer:
   m_ObjectHideFlags: 0

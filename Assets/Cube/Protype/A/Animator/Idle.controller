@@ -3,8 +3,9 @@
 --- !u!91 &9100000
 AnimatorController:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: Idle
   serializedVersion: 5
   m_AnimatorParameters: []
@@ -287,10 +288,11 @@ AnimatorController:
     m_Controller: {fileID: 9100000}
 --- !u!1102 &1102016272771164622
 AnimatorState:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: nozzle_r_lock_on_off
   m_Speed: 1
   m_CycleOffset: 0
@@ -312,10 +314,11 @@ AnimatorState:
   m_TimeParameter: 
 --- !u!1102 &1102052931877575118
 AnimatorState:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: nozzle_l_small
   m_Speed: 1
   m_CycleOffset: 0
@@ -337,10 +340,11 @@ AnimatorState:
   m_TimeParameter: 
 --- !u!1102 &1102231155085276858
 AnimatorState:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: nozzle_f_upleft
   m_Speed: 1
   m_CycleOffset: 0
@@ -362,10 +366,11 @@ AnimatorState:
   m_TimeParameter: 
 --- !u!1102 &1102232155415552800
 AnimatorState:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: arm_left_lower_on_off
   m_Speed: 1
   m_CycleOffset: 0
@@ -387,10 +392,11 @@ AnimatorState:
   m_TimeParameter: 
 --- !u!1102 &1102291239747442234
 AnimatorState:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: landinggear_r_on_off
   m_Speed: 1
   m_CycleOffset: 0
@@ -412,10 +418,11 @@ AnimatorState:
   m_TimeParameter: 
 --- !u!1102 &1102293113457716582
 AnimatorState:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: nozzle_f_downleft
   m_Speed: 1
   m_CycleOffset: 0
@@ -437,10 +444,11 @@ AnimatorState:
   m_TimeParameter: 
 --- !u!1102 &1102468938424283578
 AnimatorState:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: nozzle_r_on_off
   m_Speed: 1
   m_CycleOffset: 0
@@ -462,10 +470,11 @@ AnimatorState:
   m_TimeParameter: 
 --- !u!1102 &1102475481869413370
 AnimatorState:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: hook_up_on_off
   m_Speed: 1
   m_CycleOffset: 0
@@ -487,10 +496,11 @@ AnimatorState:
   m_TimeParameter: 
 --- !u!1102 &1102502824811398234
 AnimatorState:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: arm_left_finger_on_off
   m_Speed: 1
   m_CycleOffset: 0
@@ -512,10 +522,11 @@ AnimatorState:
   m_TimeParameter: 
 --- !u!1102 &1102525204049200214
 AnimatorState:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: hook_back_on_off
   m_Speed: 1
   m_CycleOffset: 0
@@ -537,10 +548,11 @@ AnimatorState:
   m_TimeParameter: 
 --- !u!1102 &1102574282680233112
 AnimatorState:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: nozzle_l_on_off
   m_Speed: 1
   m_CycleOffset: 0
@@ -562,10 +574,11 @@ AnimatorState:
   m_TimeParameter: 
 --- !u!1102 &1102582231836885902
 AnimatorState:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: arm_right_lower_on_off
   m_Speed: 1
   m_CycleOffset: 0
@@ -587,10 +600,11 @@ AnimatorState:
   m_TimeParameter: 
 --- !u!1102 &1102621756051583658
 AnimatorState:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: nozzle_f_upright
   m_Speed: 1
   m_CycleOffset: 0
@@ -612,10 +626,11 @@ AnimatorState:
   m_TimeParameter: 
 --- !u!1102 &1102627639712802384
 AnimatorState:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: nozzle_f_downright
   m_Speed: 1
   m_CycleOffset: 0
@@ -637,10 +652,11 @@ AnimatorState:
   m_TimeParameter: 
 --- !u!1102 &1102641549919320890
 AnimatorState:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: landinggear_l_on_off
   m_Speed: 1
   m_CycleOffset: 0
@@ -662,10 +678,11 @@ AnimatorState:
   m_TimeParameter: 
 --- !u!1102 &1102642020028086994
 AnimatorState:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: arm_left_upper_on_off
   m_Speed: 1
   m_CycleOffset: 0
@@ -687,10 +704,11 @@ AnimatorState:
   m_TimeParameter: 
 --- !u!1102 &1102662005321340692
 AnimatorState:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: idle
   m_Speed: 1
   m_CycleOffset: 0
@@ -712,10 +730,11 @@ AnimatorState:
   m_TimeParameter: 
 --- !u!1102 &1102729770415856718
 AnimatorState:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: landinggear_b_on_off
   m_Speed: 1
   m_CycleOffset: 0
@@ -737,10 +756,11 @@ AnimatorState:
   m_TimeParameter: 
 --- !u!1102 &1102880482660199462
 AnimatorState:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: nozzle_r_small
   m_Speed: 1
   m_CycleOffset: 0
@@ -762,10 +782,11 @@ AnimatorState:
   m_TimeParameter: 
 --- !u!1102 &1102895371395492608
 AnimatorState:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: nozzle_back_on_off
   m_Speed: 1
   m_CycleOffset: 0
@@ -787,10 +808,11 @@ AnimatorState:
   m_TimeParameter: 
 --- !u!1102 &1102955908029486766
 AnimatorState:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: nozzle_l_lock_on_off
   m_Speed: 1
   m_CycleOffset: 0
@@ -812,10 +834,11 @@ AnimatorState:
   m_TimeParameter: 
 --- !u!1102 &1102982034676234238
 AnimatorState:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: arm_right_upper_on_off
   m_Speed: 1
   m_CycleOffset: 0
@@ -837,10 +860,11 @@ AnimatorState:
   m_TimeParameter: 
 --- !u!1102 &1102999287757082858
 AnimatorState:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: arm_right_finger_on_off
   m_Speed: 1
   m_CycleOffset: 0
@@ -862,10 +886,11 @@ AnimatorState:
   m_TimeParameter: 
 --- !u!1107 &1107032960373967570
 AnimatorStateMachine:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: nozzle_f_downleft
   m_ChildStates:
   - serializedVersion: 1
@@ -883,10 +908,11 @@ AnimatorStateMachine:
   m_DefaultState: {fileID: 1102293113457716582}
 --- !u!1107 &1107059356057746954
 AnimatorStateMachine:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: nozzle_f_upright
   m_ChildStates:
   - serializedVersion: 1
@@ -904,10 +930,11 @@ AnimatorStateMachine:
   m_DefaultState: {fileID: 1102621756051583658}
 --- !u!1107 &1107097251521115664
 AnimatorStateMachine:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: nozzle_l_on_off
   m_ChildStates:
   - serializedVersion: 1
@@ -925,10 +952,11 @@ AnimatorStateMachine:
   m_DefaultState: {fileID: 1102574282680233112}
 --- !u!1107 &1107228598469683788
 AnimatorStateMachine:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: landinggear_r_on_off
   m_ChildStates:
   - serializedVersion: 1
@@ -946,10 +974,11 @@ AnimatorStateMachine:
   m_DefaultState: {fileID: 1102291239747442234}
 --- !u!1107 &1107274371946713666
 AnimatorStateMachine:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: landinggear_l_on_off
   m_ChildStates:
   - serializedVersion: 1
@@ -967,10 +996,11 @@ AnimatorStateMachine:
   m_DefaultState: {fileID: 1102641549919320890}
 --- !u!1107 &1107372896246396780
 AnimatorStateMachine:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: nozzle_r_small
   m_ChildStates:
   - serializedVersion: 1
@@ -988,10 +1018,11 @@ AnimatorStateMachine:
   m_DefaultState: {fileID: 1102880482660199462}
 --- !u!1107 &1107418712407639040
 AnimatorStateMachine:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: nozzle_r_on_off
   m_ChildStates:
   - serializedVersion: 1
@@ -1009,10 +1040,11 @@ AnimatorStateMachine:
   m_DefaultState: {fileID: 1102468938424283578}
 --- !u!1107 &1107421848682250678
 AnimatorStateMachine:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: nozzle_l_small
   m_ChildStates:
   - serializedVersion: 1
@@ -1030,10 +1062,11 @@ AnimatorStateMachine:
   m_DefaultState: {fileID: 1102052931877575118}
 --- !u!1107 &1107499056067679458
 AnimatorStateMachine:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: arm_left_upper_on_off
   m_ChildStates:
   - serializedVersion: 1
@@ -1051,10 +1084,11 @@ AnimatorStateMachine:
   m_DefaultState: {fileID: 1102642020028086994}
 --- !u!1107 &1107521473059124528
 AnimatorStateMachine:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: hook_up_on_off
   m_ChildStates:
   - serializedVersion: 1
@@ -1072,10 +1106,11 @@ AnimatorStateMachine:
   m_DefaultState: {fileID: 1102475481869413370}
 --- !u!1107 &1107688458598374902
 AnimatorStateMachine:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: nozzle_f_downright
   m_ChildStates:
   - serializedVersion: 1
@@ -1093,10 +1128,11 @@ AnimatorStateMachine:
   m_DefaultState: {fileID: 1102627639712802384}
 --- !u!1107 &1107741522097648728
 AnimatorStateMachine:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: arm_left_finger_on_off
   m_ChildStates:
   - serializedVersion: 1
@@ -1114,10 +1150,11 @@ AnimatorStateMachine:
   m_DefaultState: {fileID: 1102502824811398234}
 --- !u!1107 &1107776044612029494
 AnimatorStateMachine:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: arm_right_lower_on_off
   m_ChildStates:
   - serializedVersion: 1
@@ -1135,10 +1172,11 @@ AnimatorStateMachine:
   m_DefaultState: {fileID: 1102582231836885902}
 --- !u!1107 &1107785610675767634
 AnimatorStateMachine:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: hook_back_on_on_off
   m_ChildStates:
   - serializedVersion: 1
@@ -1156,10 +1194,11 @@ AnimatorStateMachine:
   m_DefaultState: {fileID: 1102525204049200214}
 --- !u!1107 &1107797544410546116
 AnimatorStateMachine:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: nozzle_r_lock_on_off
   m_ChildStates:
   - serializedVersion: 1
@@ -1177,10 +1216,11 @@ AnimatorStateMachine:
   m_DefaultState: {fileID: 1102016272771164622}
 --- !u!1107 &1107851163880293252
 AnimatorStateMachine:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: idle
   m_ChildStates:
   - serializedVersion: 1
@@ -1198,10 +1238,11 @@ AnimatorStateMachine:
   m_DefaultState: {fileID: 1102662005321340692}
 --- !u!1107 &1107876725867125584
 AnimatorStateMachine:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: landinggear_b_on_off
   m_ChildStates:
   - serializedVersion: 1
@@ -1219,10 +1260,11 @@ AnimatorStateMachine:
   m_DefaultState: {fileID: 1102729770415856718}
 --- !u!1107 &1107885922259172778
 AnimatorStateMachine:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: nozzle_l_lock_on_off
   m_ChildStates:
   - serializedVersion: 1
@@ -1240,10 +1282,11 @@ AnimatorStateMachine:
   m_DefaultState: {fileID: 1102955908029486766}
 --- !u!1107 &1107925089975153834
 AnimatorStateMachine:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: nozzle_back_on_off
   m_ChildStates:
   - serializedVersion: 1
@@ -1261,10 +1304,11 @@ AnimatorStateMachine:
   m_DefaultState: {fileID: 1102895371395492608}
 --- !u!1107 &1107927865322805540
 AnimatorStateMachine:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: nozzle_f_upleft
   m_ChildStates:
   - serializedVersion: 1
@@ -1282,10 +1326,11 @@ AnimatorStateMachine:
   m_DefaultState: {fileID: 1102231155085276858}
 --- !u!1107 &1107931932822516452
 AnimatorStateMachine:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: arm_right_upper_on_off
   m_ChildStates:
   - serializedVersion: 1
@@ -1303,10 +1348,11 @@ AnimatorStateMachine:
   m_DefaultState: {fileID: 1102982034676234238}
 --- !u!1107 &1107934756951267382
 AnimatorStateMachine:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: arm_right_finger_on_off
   m_ChildStates:
   - serializedVersion: 1
@@ -1324,10 +1370,11 @@ AnimatorStateMachine:
   m_DefaultState: {fileID: 1102999287757082858}
 --- !u!1107 &1107977446289597380
 AnimatorStateMachine:
-  serializedVersion: 5
+  serializedVersion: 6
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: arm_left_lower_on_off
   m_ChildStates:
   - serializedVersion: 1
